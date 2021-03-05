@@ -1,0 +1,3 @@
+bogdan1998|1234|Bogdan Solomun|Menadzer|
+nikola1998|1234|Nikola Nikolic|Prodavac|
+marko1998|1234|Marko Markovic|Prodavac|

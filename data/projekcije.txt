@@ -1,0 +1,6 @@
+001|Ted|komedija|1|False|21.02.2018.|21:00|100|
+002|Saw|horor|1|True|20.10.2019.|21:00|120|
+003|Thor|akcija|2|False|26.02.2018.|21:30|115|
+004|Deadpool|akcija|3|True|22.02.2018.|19:00|150|
+005|Inception|Triler|2|True|28.02.2018.|20:00|130|
+006|Borat|Komedija|2|False|20.01.2018.|20:30|120|
